@@ -1,7 +1,7 @@
 {
-  "name": "json_camel_case_snake_case",
+  "name": "camel_case_snake_case_convertion",
   "version": "1.0.0",
-  "description": "JSON case convertion",
+  "description": "JS case convertion",
   "main": "src/app.js",
   "directories": {
     "test": "test"
@@ -11,19 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bilashcse/json_camel_case_snake_case.git"
+    "url": "git+https://github.com/bilashcse/camel_case_snake_case_convertion.git"
   },
   "keywords": [
     "JSON",
+    "String",
+    "JS",
     "camelCase",
     "snakeCase"
   ],
   "author": "bilash <bilashcse@gmail.com> (https://github.com/bilashcse)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bilashcse/json_camel_case_snake_case/issues"
-  },
-  "homepage": "https://github.com/bilashcse/json_camel_case_snake_case#readme",
   "dependencies": {
     "chai": "^4.2.0"
   }
