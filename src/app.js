@@ -20,6 +20,8 @@ const stringToCamelCase = data => {
 };
 
 module.exports = {
-  stringToSnakeCase,
-  stringToCamelCase
+  jsConvert: {
+    stringToSnakeCase,
+    stringToCamelCase
+  }
 };
